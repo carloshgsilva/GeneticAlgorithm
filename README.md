@@ -1,2 +1,3 @@
 # GeneticAlgorithm
-A simple HTML Canvas and JavasScript Genetic Algorithm project.
+A simple HTML Canvas and JavaScript Genetic Algorithm project.
+
